@@ -20,7 +20,7 @@ Installation
 ------------
 Download the dpkg 
 
-	wget https://www.dropbox.com/s/zyltyoa7s1x3m47/com.intrepidusgroup.trustme_0.1-4_iphoneos-arm.deb
+	wget https://raw.githubusercontent.com/masbog/trustme/master/com.intrepidusgroup.trustme_0.1-4_iphoneos-arm.deb
 
 	dpkg -i com.intrepidusgroup.trustme_0.1-4_iphoneos-arm.deb
 
